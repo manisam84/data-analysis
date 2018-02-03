@@ -1,0 +1,12 @@
+apt-get install python3
+apt-get install python3-pip
+pip3 install python-twitter
+sudo apt-get install python-setuptools python-dev build-essential.
+python setup.py install
+python setup.py develop
+ sudo easy_install pip -sudo apt install python3-pip
+ pip3 freeze > requirements.txt.
+ 
+ create requirement.txt
+ pip3 install -r requirements.txt
+ sudo apt-get install python3-pyqt5 
